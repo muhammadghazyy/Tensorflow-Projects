@@ -2,4 +2,4 @@
 Using Tensorflow to solve some ML problems
 
 I did : 
-* MNIST Digit
+* MNIST Digit - ~91% Accuracy
